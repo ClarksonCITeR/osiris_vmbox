@@ -26,7 +26,7 @@ Oracle Virtualbox version 5 or later
 
 ## Installation Steps
 
-1. Install Oracle Virtualbox version 5 or later
+1. Install <a href="https://www.virtualbox.org/wiki/Downloads">Oracle Virtualbox version 5 or later</a>
 
 2. Download and extract the OcularCloud development environment virtual machine image zip archive
 
@@ -39,13 +39,9 @@ Oracle Virtualbox version 5 or later
    <li><b>Memory Size</b>: 2048 MB</li>
 </ul>
 
-4. When prompted to configure the hard disk, select option
+4. When prompted to configure the hard disk, select option Use an existing virtual hard disk file
 
-Use an existing virtual hard disk file
-
-and select the OcularCloud virtual hard disk file
-
-ic_de.vdi
+and select the Osiris virtual hard disk file  {ic_de.vdi}
 
 Click Create.
 
