@@ -46,3 +46,10 @@ and select the Osiris virtual hard disk file  {ic_de.vdi}
 Click Create.
 
 5. Installation is complete. Within Virtualbox, start the new virtual machine to enter the developer interface.
+
+# Osiris 
+<a href="https://github.com/ClarksonCITeR/osiris_vmbox/blob/main/Documentation_OSIRIS_v4.1.pdf"  target="_blank">Osiris Documentation</a>
+
+
+
+
