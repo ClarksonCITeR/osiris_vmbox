@@ -26,7 +26,7 @@ Oracle Virtualbox version 5 or later
 
 ## Installation Steps
 
-1. Install <a href="https://www.virtualbox.org/wiki/Downloads">Oracle Virtualbox version 5 or later</a>
+1. Install <a href="https://www.virtualbox.org/wiki/Downloads" target="_blank">Oracle Virtualbox version 5 or later</a>
 
 2. Download and extract the OcularCloud development environment virtual machine image zip archive
 
