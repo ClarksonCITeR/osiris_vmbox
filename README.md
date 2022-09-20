@@ -22,3 +22,31 @@ Development environment usage has the following minimum requirements
 Oracle Virtualbox version 5 or later
 
 <ul><li>Oracle Virtualbox version 5 or later</li></ul>
+
+
+## Installation Steps
+
+1. Install Oracle Virtualbox version 5 or later
+
+2. Download and extract the OcularCloud development environment virtual machine image zip archive
+
+3. Start Virtualbox and create a new virtual machine using the following parameters
+
+<ul>
+  <li><b>Name</b>: OcularCloud Development Environment</li>
+   <li><b>Type</b>: Linux</li>
+   <li><b>Version</b>: Ubuntu (64-bit)</li>
+   <li><b>Memory Size</b>: 2048 MB</li>
+</ul>
+
+4. When prompted to configure the hard disk, select option
+
+Use an existing virtual hard disk file
+
+and select the OcularCloud virtual hard disk file
+
+ic_de.vdi
+
+Click Create.
+
+5. Installation is complete. Within Virtualbox, start the new virtual machine to enter the developer interface.
