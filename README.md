@@ -9,7 +9,7 @@
 ## Installation
 Development environment usage has the following minimum requirements
 
-#Hardware
+###Hardware
 
 <ul>
 <li>Intel Core i5 processor or equivalent with virtualization support</li>
@@ -17,7 +17,7 @@ Development environment usage has the following minimum requirements
 <li>20 GB free disk space</li>
 </ul>
 
-#Softwar
+###Softwar
 
 Oracle Virtualbox version 5 or later
 
