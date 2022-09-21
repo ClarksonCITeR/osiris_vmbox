@@ -47,8 +47,22 @@ Click Create.
 
 5. Installation is complete. Within Virtualbox, start the new virtual machine to enter the developer interface.
 
-# Osiris 
+# Osiris
+
+<a href="https://github.com/5455945/Iris_Osiris"  target="_blank">Osiris</a>
+
+## Documentation 
 <a href="https://github.com/ClarksonCITeR/osiris_vmbox/blob/main/Documentation_OSIRIS_v4.1.pdf"  target="_blank">Osiris Documentation</a>
+
+
+# Licence 
+
+<a href="https://github.com/5455945/Iris_Osiris/blob/master/LICENSE"  target="_blank">Osiris License</a>
+<a href="https://ubuntu.com/legal/intellectual-property-policy"  target="_blank">ubuntu License</a>
+<a href="https://github.com/opencv/opencv/blob/4.4.0/LICENSE"  target="_blank">opencv License</a>
+
+
+
 
 
 
