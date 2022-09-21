@@ -57,13 +57,8 @@ Click Create.
 
 # Licence 
 
-<a href="https://github.com/5455945/Iris_Osiris/blob/master/LICENSE"  target="_blank">Osiris License</a>
-<a href="https://ubuntu.com/legal/intellectual-property-policy"  target="_blank">ubuntu License</a>
-<a href="https://github.com/opencv/opencv/blob/4.4.0/LICENSE"  target="_blank">opencv License</a>
-
-
-
-
-
-
-
+<ul>
+  <li><a href="https://github.com/5455945/Iris_Osiris/blob/master/LICENSE"  target="_blank">Osiris License</a></li>
+  <li><a href="https://ubuntu.com/legal/intellectual-property-policy"  target="_blank">ubuntu License</a></li>
+  <li><a href="https://github.com/opencv/opencv/blob/4.4.0/LICENSE"  target="_blank">opencv License</a></li>
+</ul>
