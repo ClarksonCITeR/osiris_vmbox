@@ -1,3 +1,7 @@
+## Osiris VM box
+
+The OSIRIS (Open source for IRIS) is an open source iris recognition system. Installing and running OSIRIS required ‘OpenCV version 2.4’  and Ubuntu (Linux OS). This is preconfigured OSIRIS VirtualBox Virtual Machine. 
+
 ## Osiris VM box environment
 
 <ul>
