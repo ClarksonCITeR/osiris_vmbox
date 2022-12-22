@@ -47,7 +47,7 @@ Oracle Virtualbox version 5 or later
 
 4. When prompted to configure the hard disk, select option Use an existing virtual hard disk file
 
-and select the Osiris virtual hard disk file  {ic_de.vdi}
+and select the Osiris virtual hard disk file  {OcularCloud_Development_Environment.vdi}
 
 Click Create.
 
